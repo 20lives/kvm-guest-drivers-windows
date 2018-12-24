@@ -9,3 +9,5 @@ call cleanAll.bat
 cd ..\hidpassthrough
 call cleanAll.bat
 cd ..
+
+rem testing
